@@ -1,0 +1,22 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nextein",
+    "build": "nextein build",
+    "start": "nextein start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.5.1",
+    "next": "^5.1.0",
+    "nextein": "^1.2.2",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "styled-components": "^3.2.5"
+  }
+}
